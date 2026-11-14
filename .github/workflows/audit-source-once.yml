@@ -1,0 +1,14 @@
+name: One-time pinned keycloak source identity audit
+on:
+  push:
+    paths:
+      - '.github/workflows/audit-source-once.yml'
+permissions:
+  contents: write
+jobs:
+  audit:
+    uses: Anselm04/Macro-source-code-reference-/.github/workflows/reusable-source-audit.yml@main
+    with:
+      upstream_url: https://github.com/keycloak/keycloak.git
+      upstream_sha: a29205c778402c02bad1d90b00c390f923d059ac
+      audit_slug: keycloak
