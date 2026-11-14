@@ -1,0 +1,36 @@
+{
+  "upstream": "https://github.com/keycloak/keycloak.git",
+  "pinned_commit": "a29205c778402c02bad1d90b00c390f923d059ac",
+  "destination_main_sha": "e92d2084add325db91d898e93fdff68de0565eba",
+  "upstream_tracked_entries": 13621,
+  "destination_tracked_entries": 13606,
+  "missing_paths": [
+    ".github/workflows/aurora-delete.yml",
+    ".github/workflows/azure-delete.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/conformance.yml",
+    ".github/workflows/documentation.yml",
+    ".github/workflows/guides.yml",
+    ".github/workflows/js-ci.yml",
+    ".github/workflows/js-wireit-cache.yml",
+    ".github/workflows/label.yml",
+    ".github/workflows/operator-ci.yml",
+    ".github/workflows/quarkus-next.yml",
+    ".github/workflows/scan-dependencies.yml",
+    ".github/workflows/schedule-nightly.yml",
+    ".github/workflows/translation-notify.yml",
+    ".github/workflows/version-compatibility-matrix.yml",
+    ".github/workflows/weblate.yml"
+  ],
+  "missing_path_count": 17,
+  "missing_upstream_ci_count": 17,
+  "missing_other_count": 0,
+  "mismatched_objects": [],
+  "mismatched_count": 0,
+  "extra_paths": [
+    ".github/workflows/audit-source-once.yml",
+    "TRILLIONAI_REFERENCE.md"
+  ],
+  "extra_count": 2
+}
