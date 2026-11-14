@@ -1,0 +1,14 @@
+name: Preserve original upstream workflow code without executing it
+on:
+  push:
+    paths:
+      - '.github/workflows/archive-upstream-ci-once.yml'
+permissions:
+  contents: write
+jobs:
+  archive:
+    uses: Anselm04/Macro-source-code-reference-/.github/workflows/reusable-inert-ci-archive.yml@main
+    with:
+      upstream_url: https://github.com/keycloak/keycloak.git
+      upstream_sha: a29205c778402c02bad1d90b00c390f923d059ac
+      archive_slug: keycloak
