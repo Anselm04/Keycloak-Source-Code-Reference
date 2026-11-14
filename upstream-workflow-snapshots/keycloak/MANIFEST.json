@@ -1,0 +1,110 @@
+{
+  "source": "https://github.com/keycloak/keycloak.git",
+  "commit": "a29205c778402c02bad1d90b00c390f923d059ac",
+  "number_of_original_workflow_files": 17,
+  "original_ci_is_disabled": true,
+  "files": [
+    {
+      "upstream_path": ".github/workflows/aurora-delete.yml",
+      "reference_path": "upstream-workflow-snapshots/keycloak/.github/workflows/aurora-delete.yml",
+      "git_blob": "ef5a51c7e779e868164c1445bef4da9a6dc4b915",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/azure-delete.yml",
+      "reference_path": "upstream-workflow-snapshots/keycloak/.github/workflows/azure-delete.yml",
+      "git_blob": "da0b49952c4965683e967f5d4d78d79553b80c97",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/ci.yml",
+      "reference_path": "upstream-workflow-snapshots/keycloak/.github/workflows/ci.yml",
+      "git_blob": "8f7422830bb70136a32b6b63e6f80df0c175b134",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/codeql-analysis.yml",
+      "reference_path": "upstream-workflow-snapshots/keycloak/.github/workflows/codeql-analysis.yml",
+      "git_blob": "84e31971ec26f02a01bea31e3b4d69de19d831ab",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/conformance.yml",
+      "reference_path": "upstream-workflow-snapshots/keycloak/.github/workflows/conformance.yml",
+      "git_blob": "a71c9fa8288f88c927e08117907d0b39cbba305a",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/documentation.yml",
+      "reference_path": "upstream-workflow-snapshots/keycloak/.github/workflows/documentation.yml",
+      "git_blob": "6c65809551adbee378bc73c8930a40b5700246b0",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/guides.yml",
+      "reference_path": "upstream-workflow-snapshots/keycloak/.github/workflows/guides.yml",
+      "git_blob": "9c9aca7c8e5ad5be1a33ce4c79293d48097c1a0f",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/js-ci.yml",
+      "reference_path": "upstream-workflow-snapshots/keycloak/.github/workflows/js-ci.yml",
+      "git_blob": "cf6335fba77a2300b48b2648ce21456965896573",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/js-wireit-cache.yml",
+      "reference_path": "upstream-workflow-snapshots/keycloak/.github/workflows/js-wireit-cache.yml",
+      "git_blob": "74a52ca4d5a2713ed1164ac646a6f8ab266e9282",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/label.yml",
+      "reference_path": "upstream-workflow-snapshots/keycloak/.github/workflows/label.yml",
+      "git_blob": "b7706bad82b13b085faf61147e927e5851dec5bb",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/operator-ci.yml",
+      "reference_path": "upstream-workflow-snapshots/keycloak/.github/workflows/operator-ci.yml",
+      "git_blob": "96490332927845acf19f1e4bf0f92ca3ea0a9e58",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/quarkus-next.yml",
+      "reference_path": "upstream-workflow-snapshots/keycloak/.github/workflows/quarkus-next.yml",
+      "git_blob": "2d53f0cd824a5365502baa19de0d9877aace0a71",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/scan-dependencies.yml",
+      "reference_path": "upstream-workflow-snapshots/keycloak/.github/workflows/scan-dependencies.yml",
+      "git_blob": "0c958d6dfd6bdac9cfe006a14f441707649c75ab",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/schedule-nightly.yml",
+      "reference_path": "upstream-workflow-snapshots/keycloak/.github/workflows/schedule-nightly.yml",
+      "git_blob": "a7f98eac0dd7edc45cbee4b4723daa558449a730",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/translation-notify.yml",
+      "reference_path": "upstream-workflow-snapshots/keycloak/.github/workflows/translation-notify.yml",
+      "git_blob": "98166cee0a6a83ab82497557fc00a0fe6afc406b",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/version-compatibility-matrix.yml",
+      "reference_path": "upstream-workflow-snapshots/keycloak/.github/workflows/version-compatibility-matrix.yml",
+      "git_blob": "e5bbcf6174cd66fecf7b93873a58bbb0caae8d2f",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/weblate.yml",
+      "reference_path": "upstream-workflow-snapshots/keycloak/.github/workflows/weblate.yml",
+      "git_blob": "bfd03d2a289cc920c3d8d283fc65ce58f003b3e7",
+      "original_mode": "100644"
+    }
+  ]
+}
